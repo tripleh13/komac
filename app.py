@@ -22,7 +22,7 @@ llm = Ollama(
 )
 
 # API URL 설정
-api_url = "https://stamptour2.witches.co.kr/api/getAllTourDataUsedStamp.do"
+api_url = "https://goheungtour.witches.co.kr/api/getAllTourDataUsedStamp.do"
 
 # Example output JSON 데이터
 output_exam01 = {
